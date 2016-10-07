@@ -3,9 +3,6 @@
 var colors = require('colors');
 
 
-//tells to listen to the terminal
-//======================================
-
 function rainbow(string) {
   console.log(colors.white(string));
   console.log(colors.yellow(string));
