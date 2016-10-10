@@ -18,5 +18,6 @@ for (var i=2; i<process.argv.length; i++) {
 
 }
 
+console.log(rainbow('Marie Treschow'))
 
 //rainbow('WHATEVER YOU WANNA PUT')

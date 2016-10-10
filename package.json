@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mariebtreschow/rainbows#readme",
   "dependencies": {
-    "colors": "^1.1.2"
+    "chalk": "^1.1.3"
   }
 }
